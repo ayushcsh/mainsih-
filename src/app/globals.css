@@ -19,8 +19,11 @@
   }
 }
 
+
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: Arial, Helvetica, sans-serif;
+  /* background: linear-gradient(to right, #ffffff, #93c5fd, #60a5fa); */
+  background-color: white;
 }
